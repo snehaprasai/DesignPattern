@@ -1,0 +1,6 @@
+c:\users\apuss\documents\visual studio 2013\Projects\Leapfrog.Pattern\Leapfrog.Pattern\bin\Debug\Leapfrog.Pattern.exe.config
+C:\Users\apuss\documents\visual studio 2013\Projects\Leapfrog.Pattern\Leapfrog.Pattern\bin\Debug\Leapfrog.Pattern.exe
+C:\Users\apuss\documents\visual studio 2013\Projects\Leapfrog.Pattern\Leapfrog.Pattern\bin\Debug\Leapfrog.Pattern.pdb
+C:\Users\apuss\documents\visual studio 2013\Projects\Leapfrog.Pattern\Leapfrog.Pattern\obj\Debug\Leapfrog.Pattern.csprojResolveAssemblyReference.cache
+C:\Users\apuss\documents\visual studio 2013\Projects\Leapfrog.Pattern\Leapfrog.Pattern\obj\Debug\Leapfrog.Pattern.exe
+C:\Users\apuss\documents\visual studio 2013\Projects\Leapfrog.Pattern\Leapfrog.Pattern\obj\Debug\Leapfrog.Pattern.pdb
